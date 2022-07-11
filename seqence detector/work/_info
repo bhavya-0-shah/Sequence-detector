@@ -1,0 +1,195 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Verilog P/seqence detector
+vseq_000r
+!s110 1656172629
+!i10b 1
+!s100 Lo`eCRXczJTZ1<NT0>VWM1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`C4UD5F;lA5^]z>e1EPkC3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1655358980
+8C:/Verilog P/seqence detector/seq_000r.v
+FC:/Verilog P/seqence detector/seq_000r.v
+!i122 12
+Z3 L0 1 44
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1656172629.000000
+!s107 C:/Verilog P/seqence detector/seq_000r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_000r.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseq_001r
+!s110 1656172626
+!i10b 1
+!s100 7E=SB?D9`;ECW[TM0Xa;63
+R1
+IHWIX7Tdhi:Z4l::b@lG2V1
+R2
+R0
+w1655356652
+8C:/Verilog P/seqence detector/seq_001r.v
+FC:/Verilog P/seqence detector/seq_001r.v
+!i122 11
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172626.000000
+!s107 C:/Verilog P/seqence detector/seq_001r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_001r.v|
+!i113 1
+R5
+R6
+vseq_010r
+!s110 1656172620
+!i10b 1
+!s100 U=H@SBjP6I`NZOA^WTjiD3
+R1
+InF?mUzaUTQmmKRl?S1:hS0
+R2
+R0
+w1655356683
+8C:/Verilog P/seqence detector/seq_010r.v
+FC:/Verilog P/seqence detector/seq_010r.v
+!i122 9
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172620.000000
+!s107 C:/Verilog P/seqence detector/seq_010r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_010r.v|
+!i113 1
+R5
+R6
+vseq_011r
+!s110 1656172622
+!i10b 1
+!s100 F6BLBGZP^GRok^hjT>>N33
+R1
+I5:n>RFODoQJi`KN:@8jiN2
+R2
+R0
+w1655356939
+8C:/Verilog P/seqence detector/seq_011r.v
+FC:/Verilog P/seqence detector/seq_011r.v
+!i122 10
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172622.000000
+!s107 C:/Verilog P/seqence detector/seq_011r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_011r.v|
+!i113 1
+R5
+R6
+vseq_100r
+!s110 1656172617
+!i10b 1
+!s100 3m3hP4VD7Xo]TSRAgo`J?1
+R1
+Ii[HDChQ1V=B?hA`[ON_^W3
+R2
+R0
+w1655357241
+8C:/Verilog P/seqence detector/seq_100r.v
+FC:/Verilog P/seqence detector/seq_100r.v
+!i122 8
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172617.000000
+!s107 C:/Verilog P/seqence detector/seq_100r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_100r.v|
+!i113 1
+R5
+R6
+vseq_101r
+!s110 1656172614
+!i10b 1
+!s100 _NC8ZlXU;0;8LS`ni2hHo1
+R1
+IUV]BUjc?X4YfY0_HRoofT3
+R2
+R0
+w1655357520
+8C:/Verilog P/seqence detector/seq_101r.v
+FC:/Verilog P/seqence detector/seq_101r.v
+!i122 7
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172614.000000
+!s107 C:/Verilog P/seqence detector/seq_101r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_101r.v|
+!i113 1
+R5
+R6
+vseq_110r
+!s110 1656172611
+!i10b 1
+!s100 IK^:C>?f=OHTo4EDfV2PY1
+R1
+IgzZFFaznKMcVTHfiG0HM]2
+R2
+R0
+w1655358665
+8C:/Verilog P/seqence detector/seq_110r.v
+FC:/Verilog P/seqence detector/seq_110r.v
+!i122 6
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172611.000000
+!s107 C:/Verilog P/seqence detector/seq_110r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_110r.v|
+!i113 1
+R5
+R6
+vseq_111r
+!s110 1656172605
+!i10b 1
+!s100 A_UZoBOh[_VODL]oOb5`?0
+R1
+I<lTC^42Ok[2DiH]Y5JMSh1
+R2
+R0
+w1655359154
+8C:/Verilog P/seqence detector/seq_111r.v
+FC:/Verilog P/seqence detector/seq_111r.v
+!i122 5
+R3
+R4
+r1
+!s85 0
+31
+!s108 1656172605.000000
+!s107 C:/Verilog P/seqence detector/seq_111r.v|
+!s90 -reportprogress|300|-work|work|C:/Verilog P/seqence detector/seq_111r.v|
+!i113 1
+R5
+R6
